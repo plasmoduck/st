@@ -3,7 +3,7 @@
 st is a simple terminal emulator for X which sucks less.
 
 ![st](st.png)
-*Get this theme from https://github.com/plasmoduck/themes/red*
+*Get this theme from https://github.com/plasmoduck/themes/tree/master/red*
 
 **Patches include:**
 
