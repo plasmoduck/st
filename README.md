@@ -3,8 +3,9 @@
 st is a simple terminal emulator for X which sucks less.
 
 ![st](st.png)
+*Get this theme from https://github.com/plasmoduck/themes/red*
 
-Patches include:
+**Patches include:**
 
  Alpha - Transparency 
 
